@@ -1,0 +1,64 @@
+article {
+
+    border: 2px rgb(205, 50, 171) solid;
+    background-color: rgb(33, 237, 237);
+    padding: 1rem;
+}
+
+div {
+
+    display: flex;
+    gap: 4%;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.hund article {
+    flex-basis: 48%;
+
+}
+
+.cage article {
+    flex-basis: 48%;
+}
+
+.katt1 article {
+
+    flex-basis: 48%;
+
+}
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: hotpink;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+q {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    background-color: blueviolet;
+    color: azure;
+    margin: 20px;
+}
+
+a:hover {
+    background-color: blue;
+
+}
+
+.testclass {
+    margin-top: 100px;
+}
+
